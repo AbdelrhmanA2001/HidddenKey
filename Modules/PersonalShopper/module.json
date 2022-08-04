@@ -1,0 +1,13 @@
+{
+    "name": "PersonalShopper",
+    "alias": "personalshopper",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PersonalShopper\\Providers\\PersonalShopperServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

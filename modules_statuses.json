@@ -1,0 +1,8 @@
+{
+    "Admin": true,
+    "PrivateKey": true,
+    "HolderKey": true,
+    "Blog": true,
+    "PrivateHolder": true,
+    "PersonalShopper": true
+}

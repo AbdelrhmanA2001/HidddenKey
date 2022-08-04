@@ -1,0 +1,13 @@
+{
+    "name": "PrivateHolder",
+    "alias": "privateholder",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\PrivateHolder\\Providers\\PrivateHolderServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
