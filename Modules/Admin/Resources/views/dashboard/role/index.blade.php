@@ -10,7 +10,8 @@
               <a href="{{ route('dashboard.role.create') }}"> {{ __('admin::roles.create') }}<i class="fa fa-plus" aria-hidden="true"></i></a>>
             </p>
             <div class="table-responsive">
-              <table class="table">
+
+              <table class="table myTable" id="myTable">
                 <thead>
                   <tr>
                     <th>{{ __('admin::roles.name') }}</th>

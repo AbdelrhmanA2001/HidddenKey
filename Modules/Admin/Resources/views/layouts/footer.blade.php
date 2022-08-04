@@ -37,6 +37,12 @@
         <script src="{{  asset('assets/dashboard/js/jquery.cookie.js')}}" type="text/javascript"></script>
         <script src="{{  asset('assets/dashboard/js/dashboard.js')}}"></script>
         <script src="{{  asset('assets/dashboard/js/Chart.roundedBarCharts.js')}}"></script>
+        <script src="http://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+        <script>
+            $(document).ready( function () {
+                $('#myTable').DataTable();
+            } );
+        </script>
         <!-- End custom js for this page-->
         </body>
 

@@ -10,7 +10,7 @@
               <a href="{{ route('dashboard.permission.create') }}"> {{ __('admin::permissions.create') }}<i class="fa fa-plus" aria-hidden="true"></i></a>>
             </p>
             <div class="table-responsive">
-              <table class="table">
+              <table class="table myTable" id="myTable">
                 <thead>
                   <tr>
                     <th>{{ __('admin::permissions.name') }}</th>
